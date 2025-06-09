@@ -88,8 +88,8 @@ Push to GitHub and deploy via Render or Heroku using their UI.
 👤 Author
 Sahil Kumar
 📧 bt23ece015@nituk.ac.in
-🔗 LinkedIn
-💻 GitHub
+🔗 [Linkedin](https://www.linkedin.com/in/sahil-kumar-1645a3324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsZ9%2BLcdJRjif4SB7%2FFO1%2BQ%3D%3D)
+💻  [Github](https://github.com/24f2000164/)
 
 📄 License
 This project is licensed under the MIT License.
